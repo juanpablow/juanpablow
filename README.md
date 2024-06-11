@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, I'm Juan Pablo
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=juanpablow&show_icons=true&theme=tokyonight"/>
@@ -93,7 +93,7 @@
 <hr />
 
 ### Currently learning
-<H6>I'm currently diving into several exciting areas of software development. My focus includes learning Go, Rust, Dart, and Kotlin. Additionally, I'm exploring software architecture principles, mastering clean code practices, and implementing CI/CD pipelines. This journey aims to enhance my skills and contribute to high-quality, maintainable, and scalable software solutions.</H6>
+<H4>I'm currently diving into several exciting areas of software development. My focus includes learning Go, Rust, Dart, and Kotlin. Additionally, I'm exploring software architecture principles, mastering clean code practices, and implementing CI/CD pipelines. This journey aims to enhance my skills and contribute to high-quality, maintainable, and scalable software solutions.</H4>
 <div>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
