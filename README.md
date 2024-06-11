@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Juan Pablo
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanpablow&show_icons=true&theme=tokyonight"/>
+  <img style="width: 419px;" src="https://github-readme-stats.vercel.app/api?username=juanpablow&show_icons=true&theme=tokyonight"/>
   <img style="width: 419px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablow&layout=compact&theme=tokyonight" />
 <div/>
   
