@@ -3,6 +3,7 @@
 <div>
   <img style="width: 419px;" src="https://github-readme-stats.vercel.app/api?username=juanpablow&show_icons=true&theme=tokyonight"/>
   <img style="width: 377px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablow&layout=compact&theme=tokyonight" />
+  ![Snake animation](https://github.com/juanpablow/juanpablow/blob/output/github-contribution-grid-snake.svg)
 <div/>
   
 ### Programming languages
