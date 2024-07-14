@@ -1,4 +1,4 @@
-## Hi <img src="https://www.emojiall.com /images/240/telegram/1f44b.gif" width="35px">, I'm Juan Pablo a 🇧🇷 Software Enginner
+## Hi <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" width="35px">, I'm Juan Pablo a 🇧🇷 Software Enginner
 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=juanpablow&show_icons=true&theme=onedark">
