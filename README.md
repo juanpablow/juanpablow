@@ -3,8 +3,7 @@
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=juanpablow&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=juanpablow&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=juanpablow&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=juanpablow&theme=onedark" />
+ 
 </div>
 
 ## Contact 
@@ -72,6 +71,12 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</div>
+
+## GitHub Analytics
+<div>
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=juanpablow&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=juanpablow&theme=onedark" />
 </div>
 
 ## Feeding...
