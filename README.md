@@ -1,19 +1,20 @@
-## Hi <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" width="35px">, I'm Juan Pablo a 🇧🇷 Software Enginner
+<img align="right" height="515rem" src="https://raw.githubusercontent.com/gist/juanpablow/cb2f6dc77a51ae5d04167d4c6aa52fd4/raw/ad3e4ebabd5cad20c9d6969105c517694dd51d96/gistfile1.svg"/>
+
+<h1 align="left">Hi <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" width="30px">, I'm Juan Pablo a 🇧🇷 Software Enginner </h1>
 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=juanpablow&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=juanpablow&layout=compact&theme=onedark" />
- 
 </div>
 
-## Contact 
+## 📞 Contact 
 <div> 
   <a href="https://www.linkedin.com/in/juaanpablo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto: juan.santana.macedo10@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  </br>
 </br>
 
-## 💻 Languages and Tools:
+## 💻 Languages and Tools
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -63,7 +64,7 @@
 
 <hr />
 
-### Currently learning
+### ✍️ Currently learning
 <H4>I'm currently diving into several exciting areas of software development. My focus includes learning Go, Rust, Dart, and Kotlin. Additionally, I'm exploring software architecture principles, mastering clean code practices, and implementing CI/CD pipelines. This journey aims to enhance my skills and contribute to high-quality, maintainable, and scalable software solutions.</H4>
 <div>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -73,11 +74,14 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div>
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 <div>
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=juanpablow&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=juanpablow&theme=onedark" />
 </div>
 
-## Feeding...
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=juanpablow&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 😋 Feeding...
   ![Snake animation](https://raw.githubusercontent.com/juanpablow/juanpablow/output/github-contribution-grid-snake-dark.svg)
