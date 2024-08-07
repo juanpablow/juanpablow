@@ -58,12 +58,11 @@
 <hr />
 
 ### ✍️ Currently learning
-<H4>I'm currently diving into several exciting areas of software development. My focus includes learning Go, Rust, and Kotlin. Additionally, I'm exploring software architecture principles, mastering clean code practices, and implementing CI/CD pipelines. This journey aims to enhance my skills and contribute to high-quality, maintainable, and scalable software solutions.</H4>
+<H4>I'm currently diving into several exciting areas of software development. My focus includes learning Go, and Rust. Additionally, I'm exploring software architecture principles, mastering clean code practices, and implementing CI/CD pipelines. This journey aims to enhance my skills and contribute to high-quality, maintainable, and scalable software solutions.</H4>
 <div>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
 ## 📈 GitHub Analytics
 <div>
