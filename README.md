@@ -66,7 +66,7 @@
 
 ## 📈 GitHub Analytics
 <div>
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=juanpablow&theme=github">
+ <!-- <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=juanpablow&theme=github"> -->
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=juanpablow&theme=onedark" />
 </div>
 
