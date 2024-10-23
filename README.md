@@ -21,10 +21,10 @@
 
 ## 📞 Contact
 <div>
-  <a href="https://www.linkedin.com/in/juaanpablo" target="_blank">
+  <a href="https://www.linkedin.com/in/juaanpablo">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:juanpablosmdev@gmail.com" target="_blank">
+  <a href="mailto:juanpablosmdev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
  </br>
