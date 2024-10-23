@@ -19,13 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
-      # Passo para mover os arquivos gerados para o diretório "profile-3d-contrib"
-      - name: Move Files to profile-3d-contrib
-        run: |
-          mkdir -p profile-3d-contrib  # Cria a pasta, se não existir
-          mv *.svg profile-3d-contrib/  # Move os arquivos SVG para o diretório
-
       # Configura o Git e faz o commit das alterações
       - name: Commit & Push
         run: |
