@@ -6,6 +6,14 @@
 - 👨‍💻 I'm currrently working at ChipTiming [**The Largest Eletronic Timing company in Latin America**]
 - 👽 Fun fact: *I'm a hybrid athlete*
 #
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juanpablow&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanpablow&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=juanpablow&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=juanpablow&layout=compact&theme=onedark" />
