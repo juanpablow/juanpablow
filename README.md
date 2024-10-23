@@ -22,19 +22,17 @@
 ## 📞 Contact
 <div>
   <a href="https://www.linkedin.com/in/juaanpablo">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
   </a>
   <a href="mailto:juanpablosmdev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="60"/>
   </a>
  </br>
 </div>
 
 ## 💻 Languages and Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,py,nodejs,rust,go,postgres,mongodb,prisma,dynamodb,html,css,react,next,tailwind,express,jest,fastapi,nest,docker,git,aws,vscode,figma,postman,vercel,vite,bootstrap,githubactions,linux" />
-  
-  
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,py,nodejs,rust,go,postgres,mongodb,prisma,dynamodb,html,css,react,next,tailwind,express,jest,fastapi,nest,docker,git,aws,vscode,figma,postman,vercel,vite,bootstrap,githubactions,linux" width="1000"/>
 </div>
 
 <hr />
