@@ -32,7 +32,7 @@
 
 ## 💻 Languages and Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,py,nodejs,rust,go,postgres,mongodb,prisma,dynamodb,html,css,react,next,tailwind,express,jest,fastapi,nest,docker,git,aws,vscode,figma,postman,vercel,vite,bootstrap,githubactions,linux" width="1000"/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,py,nodejs,rust,go,postgres,mongodb,prisma,dynamodb,html,css,react,next,tailwind,express,jest,fastapi,nest,docker,git,aws,vscode,figma,postman,vercel,vite,bootstrap,githubactions,linux" width="1500"/>
 </div>
 
 <hr />
