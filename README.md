@@ -40,10 +40,11 @@
 ## ✍️ Currently learning
 <H4>I'm currently diving into several exciting areas of software development. My focus includes learning Go, and Rust. Additionally, I'm exploring software architecture principles, mastering clean code practices, and implementing CI/CD pipelines. This journey aims to enhance my skills and contribute to high-quality, maintainable, and scalable software solutions.</H4>
 
-## 🏆 GitHub Trophies
+<!---## 🏆 GitHub Trophies
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=juanpablow&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
+      --->
 
 ## 😋 Feeding...
   ![Snake animation](https://raw.githubusercontent.com/juanpablow/juanpablow/output/github-contribution-grid-snake-dark.svg)
