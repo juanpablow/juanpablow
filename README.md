@@ -2,7 +2,7 @@
 
 # Hi <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" width="30px">, I'm Juan Pablo a 🇧🇷 Software Developer </h1>
 
-- 🚀 Junior Full-stack Developer focused on **Back-end**
+- 🚀 Mid-level Full-stack Developer focused on **Back-end**
 - 👨‍💻 I'm currrently working at **Tecsagroup**
 - 👽 Fun fact: *I'm a hybrid athlete*
 #
