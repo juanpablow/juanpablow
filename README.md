@@ -3,7 +3,7 @@
 # Hi <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" width="30px">, I'm Juan Pablo a 🇧🇷 Software Engineer </h1>
 
 - 🚀 Mid-level Full-stack Engineer focused on **Back-end**
-- 👨‍💻 I'm currrently working at **TECSA®️ Group**
+- 👨‍💻 I'm currrently working at **Tecsa®️ Group**
 - 👽 Fun fact: *I'm a hybrid athlete*
 #
 
